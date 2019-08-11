@@ -5130,9 +5130,9 @@ react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.6.tgz#5bbc1e2d29141c9fbdfed456343fe2bc430a6a16"
   integrity sha512-aUk3bHfZ2bRSVFFbbeVS4i+lNPZr3/WM5jT2J5omUVV1zzcs1nAaf3l51ctA5FFvCRbhrH0bdAsRRQddFJZPtA==
 
-"react-native-ccode@git+ssh://git@github.com/reime005/react-native-cpp-code#52ea2c1":
+"react-native-ccode@git+ssh://git@github.com/reime005/react-native-cpp-code#6d3376e":
   version "1.0.0"
-  resolved "git+ssh://git@github.com/reime005/react-native-cpp-code#52ea2c101347aaaa604c69b9e08979c54c860093"
+  resolved "git+ssh://git@github.com/reime005/react-native-cpp-code#6d3376ebfb13132929be8edcfbad5b57abd737f9"
 
 react-native@0.60.4:
   version "0.60.4"

@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native-ccode": "git+ssh://git@github.com/reime005/react-native-cpp-code#52ea2c1",
+    "react-native-ccode": "git+ssh://git@github.com/reime005/react-native-cpp-code#6d3376e",
     "react-native": "0.60.4"
   },
   "devDependencies": {
