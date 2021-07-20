@@ -10,7 +10,7 @@
   "dependencies": {
     "react": "16.8.6",
     "react-native-ccode": "git+ssh://git@github.com/reime005/react-native-cpp-code#6d3376e",
-    "react-native": "0.60.4"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
